@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+//adding comment in the message java file
 package sample.atmosphere;
 
 import java.util.Date;
